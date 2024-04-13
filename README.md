@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there%20I'm%20Abi&descAlign=78/" alt="header" width="100%" />
